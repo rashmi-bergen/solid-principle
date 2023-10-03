@@ -1,5 +1,5 @@
 """
-Single Resposibility Principle
+Single Resposibility Principle.
 
 A class should have ONE responsibility
 
